@@ -1,3 +1,5 @@
 markdown:   kramdown
 style:  davewhipp
-title: "Resume"
+
+layout: default
+title: Resume
