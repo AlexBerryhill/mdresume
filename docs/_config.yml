@@ -1,5 +1,6 @@
-markdown:   kramdown
-style:  davewhipp
+markdown: kramdown
+style:    davewhipp
+theme: minima
 
-layout: default
-title: Resume
+layout:   default
+title:    Alex Berryhill's Resume
