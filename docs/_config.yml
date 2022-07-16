@@ -1,6 +1,3 @@
 markdown: kramdown
 style:    davewhipp
-theme: minima
 
-layout:   default
-title:    Alex Berryhill's Resume
