@@ -61,7 +61,7 @@ __ACM Projects__, Rexburg, ID
 
 `2018-2019`
 __Panera Bread__, Bellevue, WA
-- Associate Trainer
+- Associate/Associate Trainer
 - As Customer Service Section lead gave experience in leading teams.
 <!-- Add more detail on what you did even if it just was pepole skills -->
 
